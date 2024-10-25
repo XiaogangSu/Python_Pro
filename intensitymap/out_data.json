@@ -1,0 +1,269 @@
+{
+    "source_type": 2,
+    "task_list": [
+        {
+            "task_id": "ARCF150_20241022080000",
+            "start_time": 1729559622,
+            "end_time": 1729559667,
+            "exact_time": 1729559652
+        },
+        {
+            "task_id": "ARCF1138_20241021200000",
+            "start_time": 1729516972,
+            "end_time": 1729517017,
+            "exact_time": 1729517002
+        },
+        {
+            "task_id": "ARCF1048_20241021150447",
+            "start_time": 1729495909,
+            "end_time": 1729495954,
+            "exact_time": 1729495939
+        },
+        {
+            "task_id": "JME1612_20241021160000",
+            "start_time": 1729500679,
+            "end_time": 1729500724,
+            "exact_time": 1729500709
+        },
+        {
+            "task_id": "JME1615_20241021100000",
+            "start_time": 1729478704,
+            "end_time": 1729478749,
+            "exact_time": 1729478734
+        },
+        {
+            "task_id": "ARCF150_20241021064407",
+            "start_time": 1729466711,
+            "end_time": 1729466756,
+            "exact_time": 1729466741
+        },
+        {
+            "task_id": "ARCF1138_20241020185124",
+            "start_time": 1729425216,
+            "end_time": 1729425261,
+            "exact_time": 1729425246
+        },
+        {
+            "task_id": "JME1612_20241020064301",
+            "start_time": 1729381993,
+            "end_time": 1729382038,
+            "exact_time": 1729382023
+        },
+        {
+            "task_id": "JME1773_20241020080000",
+            "start_time": 1729384527,
+            "end_time": 1729384572,
+            "exact_time": 1729384557
+        },
+        {
+            "task_id": "JME1585_20241020064733",
+            "start_time": 1729380370,
+            "end_time": 1729380415,
+            "exact_time": 1729380400
+        },
+        {
+            "task_id": "JME1603_20241020123058",
+            "start_time": 1729400165,
+            "end_time": 1729400210,
+            "exact_time": 1729400195
+        },
+        {
+            "task_id": "ARCF1225_20241020071454",
+            "start_time": 1729380933,
+            "end_time": 1729380978,
+            "exact_time": 1729380963
+        },
+        {
+            "task_id": "JME1715_20241020080000",
+            "start_time": 1729384035,
+            "end_time": 1729384080,
+            "exact_time": 1729384065
+        },
+        {
+            "task_id": "JME1603_20241019200000",
+            "start_time": 1729344518,
+            "end_time": 1729344563,
+            "exact_time": 1729344548
+        },
+        {
+            "task_id": "JME1556_20241019200000",
+            "start_time": 1729345925,
+            "end_time": 1729345970,
+            "exact_time": 1729345955
+        },
+        {
+            "task_id": "JME1603_20241019200000",
+            "start_time": 1729339458,
+            "end_time": 1729339503,
+            "exact_time": 1729339488
+        },
+        {
+            "task_id": "ARCF1343_20241018080000",
+            "start_time": 1729210191,
+            "end_time": 1729210236,
+            "exact_time": 1729210221
+        },
+        {
+            "task_id": "JME1556_20241019080000",
+            "start_time": 1729298340,
+            "end_time": 1729298385,
+            "exact_time": 1729298370
+        },
+        {
+            "task_id": "JME1715_20241019080000",
+            "start_time": 1729300192,
+            "end_time": 1729300237,
+            "exact_time": 1729300222
+        },
+        {
+            "task_id": "JME1615_20241019080000",
+            "start_time": 1729300273,
+            "end_time": 1729300318,
+            "exact_time": 1729300303
+        },
+        {
+            "task_id": "JME1585_20241019080000",
+            "start_time": 1729297202,
+            "end_time": 1729297247,
+            "exact_time": 1729297232
+        },
+        {
+            "task_id": "JME1556_20241019140000",
+            "start_time": 1729318091,
+            "end_time": 1729318136,
+            "exact_time": 1729318121
+        },
+        {
+            "task_id": "JME1708_20241018120000",
+            "start_time": 1729230116,
+            "end_time": 1729230161,
+            "exact_time": 1729230146
+        },
+        {
+            "task_id": "JME1556_20241018080000",
+            "start_time": 1729212062,
+            "end_time": 1729212107,
+            "exact_time": 1729212092
+        },
+        {
+            "task_id": "ARCF212_20241017080000",
+            "start_time": 1729123196,
+            "end_time": 1729123241,
+            "exact_time": 1729123226
+        },
+        {
+            "task_id": "JME1556_20241016200000",
+            "start_time": 1729084687,
+            "end_time": 1729084732,
+            "exact_time": 1729084717
+        },
+        {
+            "task_id": "JME1556_20241016160000",
+            "start_time": 1729068126,
+            "end_time": 1729068171,
+            "exact_time": 1729068156
+        },
+        {
+            "task_id": "JME1620_20241016160000",
+            "start_time": 1729068597,
+            "end_time": 1729068642,
+            "exact_time": 1729068627
+        },
+        {
+            "task_id": "JME1576_20241016160000",
+            "start_time": 1729065993,
+            "end_time": 1729066038,
+            "exact_time": 1729066023
+        },
+        {
+            "task_id": "JME1704_20241016180000",
+            "start_time": 1729076049,
+            "end_time": 1729076094,
+            "exact_time": 1729076079
+        },
+        {
+            "task_id": "JME1803_20241013160000",
+            "start_time": 1728811801,
+            "end_time": 1728811846,
+            "exact_time": 1728811831
+        },
+        {
+            "task_id": "JME1812_20241013100000",
+            "start_time": 1728788132,
+            "end_time": 1728788177,
+            "exact_time": 1728788162
+        },
+        {
+            "task_id": "JME1716_20241011100000",
+            "start_time": 1728612181,
+            "end_time": 1728612226,
+            "exact_time": 1728612211
+        },
+        {
+            "task_id": "JME1602_20241010180000",
+            "start_time": 1728555458,
+            "end_time": 1728555503,
+            "exact_time": 1728555488
+        },
+        {
+            "task_id": "JME1721_20241010145659",
+            "start_time": 1728544087,
+            "end_time": 1728544132,
+            "exact_time": 1728544117
+        },
+        {
+            "task_id": "JME1616_20240921080000",
+            "start_time": 1726880574,
+            "end_time": 1726880619,
+            "exact_time": 1726880604
+        },
+        {
+            "task_id": "JME1584_20240921100000",
+            "start_time": 1726885573,
+            "end_time": 1726885618,
+            "exact_time": 1726885603
+        },
+        {
+            "task_id": "JME1578_20240925080000",
+            "start_time": 1727228163,
+            "end_time": 1727228208,
+            "exact_time": 1727228193
+        },
+        {
+            "task_id": "JME1562_20240924160000",
+            "start_time": 1727166825,
+            "end_time": 1727166870,
+            "exact_time": 1727166855
+        },
+        {
+            "task_id": "JME1576_20240926100000",
+            "start_time": 1727321870,
+            "end_time": 1727321915,
+            "exact_time": 1727321900
+        },
+        {
+            "task_id": "JME1562_20240928160000",
+            "start_time": 1727513130,
+            "end_time": 1727513175,
+            "exact_time": 1727513160
+        },
+        {
+            "task_id": "JME1584_20240928200000",
+            "start_time": 1727527297,
+            "end_time": 1727527342,
+            "exact_time": 1727527327
+        },
+        {
+            "task_id": "JME1584_20241006100000",
+            "start_time": 1728184494,
+            "end_time": 1728184539,
+            "exact_time": 1728184524
+        },
+        {
+            "task_id": "JME1561_20240929200000",
+            "start_time": 1727617305,
+            "end_time": 1727617350,
+            "exact_time": 1727617335
+        }
+    ]
+}
